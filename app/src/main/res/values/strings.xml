@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InteraktionsDatabasen</string>
+
+    <!-- Compose Article Screen -->
+    <string name="title_interaktions_databasen">Interaktions Databasen</string>
+    <string name="compose_short_desc">VELKOMMEN!</string>
+    <string name="compose_long_desc">På Interaktionsdatabasen.dk kan du søge på samtidig brug af lægemidler, naturlægemidler, stærke vitaminer og mineraler og grapefrugtjuice. Interaktionsdatabasen er primært baseret på farmakokinetiske studier på mennesker. Derfor kan der være uoverensstemmelse mellem interaktionsdatabasen.dk og andre informationskilder, f.eks. Promedicin.dk.                                                                                                                                                                 .</string>
+
+</resources>
